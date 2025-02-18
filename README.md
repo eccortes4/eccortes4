@@ -1,9 +1,13 @@
 ## Hi there 👋
 
 # About Me
+My name is Edward Cortes, and I am currrently a bachelors student at Cal State Fullerton pursuing a degree in computer science with a minor in data science. I love working with latest technologies and working to advance technology in a direction that benefits others.
 
+# Contact Info
+Email: eccortes4@gmail.com
+Phone: (714) 988-5062
+LinkedIn: [linkedin.com/in/eccortes](linkedin.com/in/eccortes)
 <!--
-**eccortes4/eccortes4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
