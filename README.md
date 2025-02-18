@@ -4,8 +4,8 @@
 My name is Edward Cortes, and I am currrently a bachelors student at Cal State Fullerton pursuing a degree in computer science with a minor in data science. I love working with latest technologies and working to advance technology in a direction that benefits others.
 
 # Contact Info
-Email: eccortes4@gmail.com
-Phone: (714) 988-5062
+Email: eccortes4@gmail.com\
+Phone: (714) 988-5062\
 LinkedIn: [linkedin.com/in/eccortes](linkedin.com/in/eccortes)
 <!--
 
